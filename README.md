@@ -1,4 +1,4 @@
-- 👋 Hi, I’m __
+- 👋 Hi, I’m Virendra
 - 👀 I’m interested in embedded systems and wireless systems including industrial IOT.
 - 🌱 I’m currently learning Python and AWS
 - 💞️ I’m looking to collaborate on achieving faster time to market using robust design frameworks.
